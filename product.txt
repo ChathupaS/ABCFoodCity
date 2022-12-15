@@ -1,0 +1,5 @@
+Apple 100
+Mango 100
+Banana 100
+Milk 100
+Pineapple 100

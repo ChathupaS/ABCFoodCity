@@ -1,0 +1,5 @@
+Apple 10
+Mango 20
+Banana 30
+Milk 40
+Pineapple 50
